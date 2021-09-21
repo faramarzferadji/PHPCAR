@@ -21,7 +21,7 @@ $lab = 1;
 					<br />
 					<strong>Student Name:<?php echo " ".$student_FirstName." ".$student_LastName; ?> </strong><br />
 					Course: Fashion Design<br />
-					Teacher: Alex Vilvert<br />
+					Teacher: faramarz<br />
 					Semester: The best of your life<br />
 				</div>
 			</div>
